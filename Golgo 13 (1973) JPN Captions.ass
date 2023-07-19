@@ -13,6 +13,7 @@ Style: Default,Avenir,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.73,0:01:34.94,Default,,0,0,0,,https://m.media-amazon.com/images/I/81d0FA0BimL.jpg
 Dialogue: 0,0:01:32.73,0:01:34.94,Default,,0,0,0,,どこの情報部員だ？
 Dialogue: 0,0:01:40.62,0:01:42.62,Default,,0,0,0,,野郎！
 Dialogue: 0,0:01:46.12,0:01:48.75,Default,,0,0,0,,吐くまで やるんだ
