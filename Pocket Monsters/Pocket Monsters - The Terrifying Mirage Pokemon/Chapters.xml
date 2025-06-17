@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>3571900320</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3622255544</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3204831920</ChapterUID>
+      <ChapterTimeStart>00:00:47.005000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2723172011</ChapterUID>
+      <ChapterTimeStart>00:01:34.720000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>A New Battle System</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1948984756</ChapterUID>
+      <ChapterTimeStart>00:04:44.576000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Kasumi VS Mirage</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1070575503</ChapterUID>
+      <ChapterTimeStart>00:08:25.463000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Mr. Mirage Appears!</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3767430293</ChapterUID>
+      <ChapterTimeStart>00:10:36.177000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Inside the System</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3052818357</ChapterUID>
+      <ChapterTimeStart>00:11:43.286000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>It's a Trap!</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>629706415</ChapterUID>
+      <ChapterTimeStart>00:20:16.882000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>The Return of Mew</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>350430126</ChapterUID>
+      <ChapterTimeStart>00:23:36.332000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>The Secret Password</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2658578607</ChapterUID>
+      <ChapterTimeStart>00:29:12.250000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Mr. Mirage Unmasked</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1870907063</ChapterUID>
+      <ChapterTimeStart>00:30:44.801000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>The Last Battle</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2048921987</ChapterUID>
+      <ChapterTimeStart>00:37:10.353000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>We Will Meet Again</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2525133503</ChapterUID>
+      <ChapterTimeStart>00:41:28.986000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
