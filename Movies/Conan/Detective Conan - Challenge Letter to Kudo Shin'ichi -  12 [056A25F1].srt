@@ -1,0 +1,1978 @@
+﻿1
+00:00:05,989 --> 00:00:09,559
+Heiwa Fansubs Presents:
+"Great Detective Conan"
+"Challenge to Kudo Shin'ichi"
+
+2
+00:00:12,062 --> 00:00:12,629
+Ran...
+
+3
+00:00:12,662 --> 00:00:14,131
+Don't come in!
+
+4
+00:00:14,698 --> 00:00:15,899
+What is it?
+
+5
+00:00:15,966 --> 00:00:17,901
+It's okay, so come over here.
+
+6
+00:00:18,668 --> 00:00:20,470
+I can't move...
+
+7
+00:00:20,737 --> 00:00:22,039
+Eh?
+
+8
+00:00:23,940 --> 00:00:25,208
+This is...
+
+9
+00:00:25,442 --> 00:00:27,611
+Infra-red ray sensors?
+
+10
+00:00:27,978 --> 00:00:29,613
+Shin'ichi...
+
+11
+00:00:30,080 --> 00:00:32,215
+I can't stand anymore.
+
+12
+00:00:32,749 --> 00:00:34,751
+Ran, hang in there.
+
+13
+00:00:35,619 --> 00:00:36,520
+"Careful, Explosion"
+
+14
+00:00:36,586 --> 00:00:37,821
+Damn...
+
+15
+00:00:38,121 --> 00:00:41,691
+If I touch a sensor, there'll be a bang.
+
+16
+00:00:42,259 --> 00:00:43,960
+This date was...
+
+17
+00:00:46,196 --> 00:00:48,065
+"Beika City Bank
+Safe-Deposit Boxes Floor"
+
+18
+00:00:56,673 --> 00:00:57,607
+"Close"
+
+19
+00:01:03,213 --> 00:01:04,781
+"Beika City Bank"
+
+20
+00:01:08,251 --> 00:01:10,987
+"System Development Dept.
+Sonoda Machiko"
+
+21
+00:01:11,088 --> 00:01:12,656
+"The moment you report this to the police
+This bank will blow up"
+
+22
+00:01:12,856 --> 00:01:14,558
+"Blow up"
+
+23
+00:01:18,028 --> 00:01:21,064
+"High School Student Detective
+Kudo Shin'ichi"
+
+24
+00:01:21,298 --> 00:01:23,700
+"Beika City Bank, Safe-Deposit Boxes Floor"
+There's no mistake that's Sonoda Machiko-san?
+
+25
+00:01:23,767 --> 00:01:25,035
+No mistake.
+
+26
+00:01:25,135 --> 00:01:28,939
+That cell phone's Machiko-chan's.
+I recognize the strap.
+
+27
+00:01:29,172 --> 00:01:31,341
+What sort of acquaintance
+was Machiko-san to you?
+
+28
+00:01:31,475 --> 00:01:33,710
+"Private Detective - Mori Kogoro"
+Ran's computer school teacher.
+
+29
+00:01:33,777 --> 00:01:36,580
+And my drinking buddy.
+We weren't doing anything dirty. All wholesome...
+
+30
+00:01:36,613 --> 00:01:37,747
+Oi!
+
+31
+00:01:37,881 --> 00:01:40,917
+"Branch Manager - Emoto Takeo"
+That computer school is a
+subsidiary of our company.
+
+32
+00:01:41,017 --> 00:01:44,821
+She held posts both here
+and as a lecturer there.
+
+33
+00:01:44,955 --> 00:01:47,224
+That ringtone!
+That's definitely Machiko-chan's.
+
+34
+00:01:47,290 --> 00:01:49,493
+"Mori Kogoro"
+Machiko-chan, hang in there!
+
+35
+00:01:49,626 --> 00:01:50,594
+It's true.
+
+36
+00:01:50,727 --> 00:01:52,295
+Machiko-chan!
+
+37
+00:01:54,264 --> 00:01:58,135
+"The moment you report this to the police,
+this bank will blow up"
+
+38
+00:01:58,235 --> 00:02:00,504
+Anyhow Branch Manager,
+let's contact the police.
+
+39
+00:02:00,570 --> 00:02:01,905
+Please wait a moment!
+
+40
+00:02:01,938 --> 00:02:04,574
+What'll you do if it really does blow up?
+
+41
+00:02:04,708 --> 00:02:08,912
+Everyone here is saying
+don't discuss this with the police.
+
+42
+00:02:09,446 --> 00:02:12,649
+By the way, what are you doing here
+at the bank, Sir?
+
+43
+00:02:12,849 --> 00:02:14,451
+During the day today...
+
+44
+00:02:14,484 --> 00:02:16,987
+"Ah, Machiko-chan!
+What is it?"
+
+45
+00:02:17,053 --> 00:02:18,922
+"Are you inviting me to a Go-kon?"
+
+46
+00:02:19,856 --> 00:02:21,091
+"I'm sorry."
+
+47
+00:02:21,158 --> 00:02:25,162
+"Truth is, I've gotten in some serious trouble
+and was hoping to get your advice."
+
+48
+00:02:25,195 --> 00:02:28,465
+"This can never be told to the police.
+You cannot tell them."
+
+49
+00:02:28,598 --> 00:02:32,169
+"So please, come to my desk at the bank."
+
+50
+00:02:32,302 --> 00:02:37,174
+Thinking back on it now, this must have been
+the reason she said not to tell them.
+
+51
+00:02:37,374 --> 00:02:41,077
+And, when I guided Mori-san here...
+
+52
+00:02:41,378 --> 00:02:43,780
+...for some reason these shutters were closed.
+
+53
+00:02:43,947 --> 00:02:45,549
+Why do you say, "for some reason"?
+
+54
+00:02:45,649 --> 00:02:49,186
+This shutter is
+totally controlled by computer...
+
+55
+00:02:49,686 --> 00:02:52,322
+...and isn't opened or shut at anytime
+other than the scheduled hours.
+
+56
+00:02:52,389 --> 00:02:54,124
+Oi, what does this mean?
+
+57
+00:02:54,224 --> 00:02:59,262
+Most likely the criminal tampered with the
+security system by hacking into its programming.
+
+58
+00:02:59,529 --> 00:03:02,933
+What's more,
+they were able to plant a device...
+
+59
+00:03:03,033 --> 00:03:05,602
+...where the entire bank would blow up
+the moment this panel is operated.
+
+60
+00:03:05,735 --> 00:03:08,371
+An inside job crime...
+
+61
+00:03:08,572 --> 00:03:12,175
+Each of the security camera videos
+were checked on all the entrances and exits...
+
+62
+00:03:12,209 --> 00:03:16,780
+...but no intruders were seen going
+either in or out of this building.
+
+63
+00:03:17,247 --> 00:03:19,649
+Who is currently left behind in this building?
+
+64
+00:03:19,716 --> 00:03:23,220
+Us and 2 security guards...
+
+65
+00:03:23,653 --> 00:03:26,022
+...and 3 others.
+
+66
+00:03:28,692 --> 00:03:31,027
+"Assistant Branch Manager
+Nimura Yuzo"
+
+67
+00:03:31,094 --> 00:03:33,330
+"In Charge of Safe-deposit Boxes
+Sakai Yoko"
+
+68
+00:03:33,463 --> 00:03:35,966
+"Corporate Sales Division, Chief Clerk
+Hasegawa Ryosuke"
+
+69
+00:03:45,709 --> 00:03:47,210
+Which of you is the criminal?
+
+70
+00:03:47,277 --> 00:03:49,746
+Sir, that kind of question is...
+
+71
+00:03:58,121 --> 00:04:00,523
+Don't tell me it was all three of you?!
+
+72
+00:04:00,557 --> 00:04:01,758
+- You're wrong!
+- You're wrong!
+
+73
+00:04:02,292 --> 00:04:04,594
+I alone killed her.
+
+74
+00:04:04,661 --> 00:04:06,062
+- That's wrong!
+- That's wrong!
+
+75
+00:04:06,229 --> 00:04:07,664
+I did it.
+
+76
+00:04:07,731 --> 00:04:09,766
+Wrong! I'm the criminal.
+
+77
+00:04:13,069 --> 00:04:14,571
+Hello, Ran? Did it get there?
+
+78
+00:04:14,671 --> 00:04:16,039
+It's arrived, but...
+
+79
+00:04:16,139 --> 00:04:18,742
+"Police Headquarters, Conference Room"
+Say, what do you want done with
+the photos you attached?
+
+80
+00:04:18,842 --> 00:04:20,744
+Have Detective Sato take a look at them.
+
+81
+00:04:20,844 --> 00:04:24,414
+She'll understand what I want analyzed
+as soon as she reads the contents of the e-mail.
+
+82
+00:04:24,547 --> 00:04:26,883
+"Shin'ichi's Childhood Friend - Mori Ran"
+Yeah. Ah, wait, Shin'ichi!
+
+83
+00:04:27,384 --> 00:04:28,785
+Geez...
+
+84
+00:04:28,885 --> 00:04:31,154
+"MPD Investigation Unit One - Sato Miwako"
+"MPD Investigation Unit One - Takagi Wataru"
+"Photos"? What is this case about?
+
+85
+00:04:31,221 --> 00:04:35,992
+I'm not sure, but I think he wants you
+to have these photos analyzed.
+
+86
+00:04:36,760 --> 00:04:38,194
+"The moment you report this to the police
+This bank will blow up"
+
+87
+00:04:38,928 --> 00:04:40,163
+Blow up?!
+
+88
+00:04:40,196 --> 00:04:41,398
+Get under a desk...
+
+89
+00:04:41,498 --> 00:04:42,565
+Sato-san, hurry!
+Ran-chan, you too...
+
+90
+00:04:42,632 --> 00:04:44,167
+What are you doing?!
+How shameful!
+
+91
+00:04:44,267 --> 00:04:45,902
+I want you to tell the truth!
+
+92
+00:04:46,036 --> 00:04:49,139
+I've done something terrible.
+I didn't intend to kill her.
+
+93
+00:04:49,339 --> 00:04:52,842
+She's dead. There's no doubt
+since I'm telling you that I did it!
+
+94
+00:04:52,909 --> 00:04:54,210
+Why are you lying...
+
+95
+00:04:54,311 --> 00:04:56,079
+You're the one who's lying!
+
+96
+00:04:56,146 --> 00:04:58,748
+I'm certainly the one who killed her.
+
+97
+00:04:58,815 --> 00:05:00,650
+You're already too late.
+
+98
+00:05:00,884 --> 00:05:04,821
+If you open the shutter here or if the
+police start to move and this bank blows up...
+
+99
+00:05:04,854 --> 00:05:07,324
+...you won't be able to recover her!
+
+100
+00:05:07,824 --> 00:05:09,359
+Who put this up here?
+
+101
+00:05:12,796 --> 00:05:14,531
+Ala, ala, ala?
+
+102
+00:05:14,698 --> 00:05:17,133
+They're all denying it.
+
+103
+00:05:17,367 --> 00:05:20,103
+Sir, let's divide them up for now
+and listen to their circumstances.
+
+104
+00:05:20,203 --> 00:05:21,404
+Oh.
+
+105
+00:05:21,905 --> 00:05:25,875
+Let's put the screws on these guys
+and kick their asses! Come!
+
+106
+00:05:30,613 --> 00:05:32,282
+"Suspect 1
+Assistant Branch Manager
+Nimura Yuzo's Deposition"
+
+107
+00:05:32,382 --> 00:05:38,355
+Truth is, I and Sonoda Machiko were trying
+to keep our relationship quiet.
+
+108
+00:05:39,022 --> 00:05:40,657
+You were lovers?
+
+109
+00:05:40,757 --> 00:05:45,895
+At first we mutually promised it would
+just be a businesslike relationship...
+
+110
+00:05:46,429 --> 00:05:51,234
+...but recently Machiko had been saying
+she couldn't endure that any longer...
+
+111
+00:05:51,434 --> 00:05:52,602
+"Divorce your wife."
+
+112
+00:05:52,635 --> 00:05:54,471
+She was pressing me to marry her.
+
+113
+00:05:54,571 --> 00:05:55,939
+"I told you, that's..."
+
+114
+00:05:56,072 --> 00:05:58,308
+"I'll tell your wife EVERYTHING."
+
+115
+00:05:58,441 --> 00:05:59,976
+"Stop it, I said..."
+
+116
+00:06:00,176 --> 00:06:01,811
+"Wait... Ah!"
+
+117
+00:06:03,613 --> 00:06:08,218
+You're saying you killed her after reaching
+the limits of her blind love for you?
+
+118
+00:06:08,651 --> 00:06:11,187
+It was bound to be like this someday.
+
+119
+00:06:11,621 --> 00:06:13,289
+If I hadn't done that...
+
+120
+00:06:13,757 --> 00:06:16,326
+...my family would have fallen apart.
+
+121
+00:06:17,394 --> 00:06:19,562
+That's what I was thinking...
+
+122
+00:06:24,167 --> 00:06:28,171
+By the way, was it you who
+put up that poster, Nimura-san?
+
+123
+00:06:29,339 --> 00:06:32,175
+I don't know... anything about that.
+
+124
+00:06:32,876 --> 00:06:34,711
+"Suspect 2
+In Charge of Safe-deposit Boxes
+Sakai Yoko's Deposition"
+
+125
+00:06:35,078 --> 00:06:37,614
+That woman was the subject of dark rumors.
+
+126
+00:06:38,348 --> 00:06:40,884
+There were dark rumors about Machiko-chan?
+
+127
+00:06:43,186 --> 00:06:45,789
+That she was embezzling from the company.
+
+128
+00:06:46,055 --> 00:06:49,259
+That she was opening safe-deposit boxes
+without authorization from the users...
+
+129
+00:06:49,492 --> 00:06:51,995
+...and taking out any precious goods.
+
+130
+00:06:52,228 --> 00:06:56,132
+They were collateral
+for her financing schemes.
+
+131
+00:06:56,566 --> 00:06:58,435
+She would make investments using them...
+
+132
+00:06:58,535 --> 00:07:03,306
+...and, once she had made a profit,
+would return the goods...
+
+133
+00:07:03,473 --> 00:07:05,975
+...keeping the profits for herself.
+
+134
+00:07:09,045 --> 00:07:10,680
+That's nothing to joke about!
+
+135
+00:07:10,747 --> 00:07:14,350
+The career I had built up for myself
+was being ruined by that little girl!
+
+136
+00:07:14,484 --> 00:07:18,888
+That's why it was necessary for me to
+convince her to stop before this became serious.
+
+137
+00:07:19,389 --> 00:07:21,624
+Since you have to take responsibility
+for your subordinates...
+
+138
+00:07:21,724 --> 00:07:24,594
+...you could have been fired as well, right?
+
+139
+00:07:24,894 --> 00:07:27,831
+So you tried everything that you could.
+
+140
+00:07:27,964 --> 00:07:33,036
+Today as expected, she was returning goods
+she had taken without authorization.
+
+141
+00:07:35,438 --> 00:07:38,608
+"Ala. I don't want to hear
+any more excuses."
+
+142
+00:07:38,908 --> 00:07:40,276
+"Before you lose this bank's trust..."
+
+143
+00:07:40,343 --> 00:07:42,946
+"Before they lose trust in ME?"
+
+144
+00:07:43,546 --> 00:07:45,582
+"What a laugh."
+
+145
+00:07:45,782 --> 00:07:49,853
+"Should I dial 110 and expose myself?"
+
+146
+00:07:50,153 --> 00:07:51,187
+"Wait..."
+
+147
+00:07:55,492 --> 00:07:57,961
+If I had let her get away like that,
+it could have gotten serious for me...
+
+148
+00:07:58,061 --> 00:07:59,496
+That's what I was thinking...
+
+149
+00:07:59,696 --> 00:08:01,498
+And she had realized that.
+
+150
+00:08:02,065 --> 00:08:04,567
+Did you put up that poster?
+
+151
+00:08:05,335 --> 00:08:06,736
+No.
+
+152
+00:08:07,103 --> 00:08:10,974
+But, I don't think it's a bluff.
+
+153
+00:08:11,107 --> 00:08:12,408
+What?
+
+154
+00:08:12,675 --> 00:08:15,311
+She was an excellent System Engineer.
+
+155
+00:08:15,411 --> 00:08:18,448
+With this system, intruders couldn't get past.
+
+156
+00:08:18,515 --> 00:08:19,983
+Moreover...
+
+157
+00:08:20,316 --> 00:08:22,919
+Even I don't know what
+those safe-deposit boxes contain.
+
+158
+00:08:23,019 --> 00:08:24,554
+If you checked all of them...
+
+159
+00:08:24,654 --> 00:08:28,424
+...I couldn't deny the possibility that
+one of them contains a bomb.
+
+160
+00:08:30,460 --> 00:08:31,694
+Then...
+
+161
+00:08:32,328 --> 00:08:33,429
+...it was Machiko who put it up?
+
+162
+00:08:33,496 --> 00:08:35,798
+That's what I think.
+
+163
+00:08:37,100 --> 00:08:38,568
+"Suspect 3
+Chief of Corporate Sales
+Hasegawa Ryosuke's Deposition"
+
+164
+00:08:38,635 --> 00:08:41,638
+"if you do as I say, you can make
+a lot of money..." she said.
+
+165
+00:08:41,938 --> 00:08:43,339
+But...
+
+166
+00:08:44,073 --> 00:08:48,578
+...an emergency broke out,
+so she wanted my cooperation.
+
+167
+00:08:48,778 --> 00:08:50,513
+Emergency?
+
+168
+00:08:50,780 --> 00:08:54,317
+She was taking precious goods
+from the safe-deposit boxes...
+
+169
+00:08:54,751 --> 00:08:56,886
+...and using them to make money...
+
+170
+00:08:58,087 --> 00:09:00,924
+Our boss, Sakai-san,
+had gotten wind of that...
+
+171
+00:09:01,457 --> 00:09:03,259
+And...
+
+172
+00:09:03,726 --> 00:09:06,095
+"I want you to kill me."
+
+173
+00:09:06,863 --> 00:09:08,097
+"Eh?"
+
+174
+00:09:09,198 --> 00:09:11,301
+"Of course, it's just a little play."
+
+175
+00:09:12,201 --> 00:09:13,369
+"A play?"
+
+176
+00:09:13,503 --> 00:09:17,674
+"Truth is, I'm borrowing something
+right now for the collateral I need."
+
+177
+00:09:18,074 --> 00:09:22,512
+"An emerald necklace currently worth
+about 260 million yen."
+
+178
+00:09:23,246 --> 00:09:24,981
+"260 million yen?"
+
+179
+00:09:25,148 --> 00:09:28,918
+"The Middle East ambassador of
+the Cairid Kingdom deposited it."
+
+180
+00:09:29,018 --> 00:09:32,755
+"That necklace is something I've taken out
+of the safe-deposit box for right now."
+
+181
+00:09:33,022 --> 00:09:37,093
+"However tomorrow, because his
+business plans changed suddenly..."
+
+182
+00:09:37,193 --> 00:09:41,564
+"...the ambassador wants to take his
+emerald necklace out before returning home."
+
+183
+00:09:41,898 --> 00:09:45,501
+"But I can't return the emerald that quickly."
+
+184
+00:09:47,537 --> 00:09:49,072
+"You understand, right?"
+
+185
+00:09:49,572 --> 00:09:52,408
+"If that safe-deposit box is opened,
+it's over for us."
+
+186
+00:09:52,875 --> 00:09:56,145
+"That's why before then,
+some big incident needs to occur..."
+
+187
+00:09:56,245 --> 00:10:00,416
+"...so that the shutter is closed
+and can't be opened."
+
+188
+00:10:00,817 --> 00:10:02,585
+"How?!"
+
+189
+00:10:04,020 --> 00:10:07,857
+The ambassador has to return to his home
+because he can't change his schedule.
+
+190
+00:10:08,157 --> 00:10:09,592
+When the time comes...
+
+191
+00:10:09,726 --> 00:10:12,996
+...he'll have no choice but to
+return home for the time being.
+
+192
+00:10:13,529 --> 00:10:16,966
+In other words,
+that poster is nothing but a bluff?
+
+193
+00:10:19,802 --> 00:10:23,773
+She would gain time because...
+
+194
+00:10:24,941 --> 00:10:28,277
+...they'd be too afraid to make it a
+police matter and too scared to open the shutter.
+
+195
+00:10:29,078 --> 00:10:32,915
+Then, you're saying... she's still alive?
+
+196
+00:10:32,982 --> 00:10:34,550
+That's right.
+
+197
+00:10:35,652 --> 00:10:40,657
+She took sleeping pills
+and is pretending to be a corpse.
+
+198
+00:10:42,492 --> 00:10:44,894
+By the time they wear off...
+
+199
+00:10:45,495 --> 00:10:49,532
+In other words, her plan is to
+regain consciousness around 9 a.m...
+
+200
+00:10:49,732 --> 00:10:52,368
+...after the ambassador to Japan has left.
+
+201
+00:10:52,769 --> 00:10:54,370
+And...
+
+202
+00:10:54,671 --> 00:10:59,242
+...once she inputs the password,
+nothing will happen.
+
+203
+00:11:00,243 --> 00:11:04,547
+Then she's the only one
+who knows the password.
+
+204
+00:11:05,148 --> 00:11:07,483
+She's a scary woman.
+
+205
+00:11:08,184 --> 00:11:10,086
+If I hadn't gone along like this...
+
+206
+00:11:10,820 --> 00:11:13,856
+...it wouldn't be possible to stop her crimes.
+
+207
+00:11:15,158 --> 00:11:18,828
+Hasegawa-san, you were going to
+play your part in Machiko-san's plan...
+
+208
+00:11:19,028 --> 00:11:23,366
+...wait for her to return the emeralds
+and then file a complaint?
+
+209
+00:11:23,533 --> 00:11:26,869
+Afterwards,
+I'd explain everything to the police.
+
+210
+00:11:27,003 --> 00:11:29,572
+What?! Machiko-chan is alive?
+
+211
+00:11:29,772 --> 00:11:32,742
+That's according to Hasegawa-san's story.
+
+212
+00:11:33,209 --> 00:11:35,578
+Machiko-chan! Hang in there!
+
+213
+00:11:35,645 --> 00:11:37,046
+I'll save you!
+
+214
+00:11:37,180 --> 00:11:40,183
+But Sir, it's all contradictory.
+
+215
+00:11:40,850 --> 00:11:42,318
+Contradictory?!
+
+216
+00:11:43,553 --> 00:11:46,956
+Both Sakai-san and Hasegawa-san said
+that Machiko-san was embezzling.
+
+217
+00:11:47,023 --> 00:11:48,791
+"She was embezzling from the company."
+
+218
+00:11:49,058 --> 00:11:53,496
+"She was taking precious goods from the
+safe-deposit boxes and making money from them..."
+
+219
+00:11:53,629 --> 00:11:56,799
+So the probability she was embezzling is high.
+
+220
+00:11:56,966 --> 00:12:01,771
+But, if as Hasegawa-san has said
+and Machiko-san is playing dead...
+
+221
+00:12:02,772 --> 00:12:06,209
+...then that deposition contradicts
+what Sakai-san said about killing her.
+
+222
+00:12:06,342 --> 00:12:09,846
+Even though Sakai-san herself
+is saying she did kill her.
+
+223
+00:12:09,979 --> 00:12:11,547
+"Divorce her."
+
+224
+00:12:12,715 --> 00:12:15,651
+On the other hand, Nimura says
+he killed her out of blind passion.
+
+225
+00:12:15,885 --> 00:12:17,286
+What on earth is going on?!
+
+226
+00:12:17,420 --> 00:12:20,256
+You normally wouldn't say you were
+the one doing that.
+
+227
+00:12:20,389 --> 00:12:26,329
+Between the three of them, there must be
+something the criminal had found convenient.
+
+228
+00:12:27,897 --> 00:12:30,867
+Something the criminal had found
+convenient to them!
+
+229
+00:12:32,635 --> 00:12:34,203
+What is it?
+
+230
+00:12:37,940 --> 00:12:40,009
+Oh Ran, find out anything?
+
+231
+00:12:40,276 --> 00:12:42,011
+Shin'ichi, listen closely.
+
+232
+00:12:42,111 --> 00:12:44,814
+There's a red mark showing up on
+Machiko-san's leg.
+
+233
+00:12:44,947 --> 00:12:46,816
+Most likely that's...
+
+234
+00:12:47,116 --> 00:12:49,352
+Eh? And?
+
+235
+00:12:51,354 --> 00:12:52,822
+Got it.
+
+236
+00:13:00,663 --> 00:13:03,199
+Oi! Where are you going?
+Boy detective!
+
+237
+00:13:03,266 --> 00:13:04,500
+Oi!
+
+238
+00:13:04,767 --> 00:13:08,337
+"System Development Department"
+
+239
+00:13:12,074 --> 00:13:14,143
+It hasn't gone into Sleep mode.
+
+240
+00:13:14,210 --> 00:13:15,878
+"Wait in the basement safe-deposit box room
+If I don't show up, e-mail me here"
+
+241
+00:13:17,980 --> 00:13:19,982
+"Machiko"
+
+242
+00:13:21,984 --> 00:13:27,123
+There's something unusual about Sir's
+drinking buddy Machiko-san's e-mail address...
+
+243
+00:13:34,030 --> 00:13:35,264
+Damn!
+
+244
+00:13:35,598 --> 00:13:38,134
+Just a little more...
+
+245
+00:13:39,936 --> 00:13:41,771
+Sir, what are you doing?
+
+246
+00:13:41,871 --> 00:13:45,341
+Well, I thought I'd get that cell phone.
+
+247
+00:13:45,474 --> 00:13:48,477
+I thought we might be able
+to find something out with it.
+
+248
+00:13:48,711 --> 00:13:50,446
+Where did you get that?
+
+249
+00:13:50,613 --> 00:13:53,082
+I grabbed a brace from
+one of the plants over there.
+
+250
+00:14:15,204 --> 00:14:17,373
+This is wonderful, Sir.
+
+251
+00:14:17,506 --> 00:14:19,375
+This is great, Sir!
+
+252
+00:14:19,475 --> 00:14:21,377
+This had a hand in it.
+
+253
+00:14:21,477 --> 00:14:23,746
+Huh? Huh, huh, huh?
+
+254
+00:14:24,046 --> 00:14:27,383
+Really? That's right, isn't it?
+I knew it!
+
+255
+00:14:27,617 --> 00:14:33,422
+For this great detective, Mori Kogoro, every
+sort of closed-room trick is but child's play.
+
+256
+00:14:35,658 --> 00:14:37,126
+And? What's the trick?
+
+257
+00:14:37,226 --> 00:14:39,128
+I'll explain it later.
+
+258
+00:14:44,066 --> 00:14:45,134
+Huh?
+
+259
+00:14:45,201 --> 00:14:46,569
+An explosion?!
+
+260
+00:14:46,636 --> 00:14:48,838
+Didn't a detonator just start?
+
+261
+00:14:49,005 --> 00:14:50,206
+I thought so.
+
+262
+00:14:50,306 --> 00:14:51,774
+What did you just think?!
+
+263
+00:14:51,841 --> 00:14:53,175
+What's this about, boy detective?
+
+264
+00:14:53,276 --> 00:14:56,412
+The cell phone at
+Machiko-san's foot isn't reacting.
+
+265
+00:14:58,080 --> 00:14:59,482
+But...
+
+266
+00:15:01,884 --> 00:15:05,021
+...an e-mail ringtone can
+be heard from inside there.
+
+267
+00:15:05,187 --> 00:15:09,959
+That means there's another
+cell phone somewhere in there.
+
+268
+00:15:10,026 --> 00:15:11,727
+Where in there?!
+
+269
+00:15:11,894 --> 00:15:15,298
+All of the mysteries are hidden in this number.
+
+270
+00:15:16,499 --> 00:15:19,635
+Fool! It'll explode!
+That's dangerous!
+
+271
+00:15:36,719 --> 00:15:39,922
+This is regrettable, Machiko-san.
+
+272
+00:15:40,589 --> 00:15:43,492
+Ma... Machiko-chan!
+
+273
+00:15:43,592 --> 00:15:45,895
+Unfortunately, she's dead.
+
+274
+00:15:50,199 --> 00:15:51,934
+Poor thing...
+
+275
+00:15:54,804 --> 00:15:57,506
+Oi! She wasn't strangled.
+
+276
+00:15:57,707 --> 00:16:00,176
+Then what on earth
+was the cause of her death?
+
+277
+00:16:01,043 --> 00:16:02,778
+I'll explain that later.
+
+278
+00:16:04,180 --> 00:16:06,816
+Sir, where's that sound coming from?
+
+279
+00:16:14,623 --> 00:16:17,560
+From here! I can hear it here!
+
+280
+00:16:18,027 --> 00:16:20,930
+Only one part is open.
+Just like I thought.
+
+281
+00:16:20,997 --> 00:16:23,933
+Sir! Machiko-san should have
+the master key. Search her!
+
+282
+00:16:24,000 --> 00:16:25,201
+Yeah!
+
+283
+00:16:29,605 --> 00:16:31,941
+Boy detective, I have it!
+
+284
+00:16:41,917 --> 00:16:43,986
+I know, Sir.
+
+285
+00:16:45,488 --> 00:16:47,423
+What the one and only...
+
+286
+00:16:48,657 --> 00:16:51,527
+...sad truth is.
+
+287
+00:16:53,095 --> 00:16:54,797
+I know who the criminal is.
+
+288
+00:16:54,864 --> 00:16:56,699
+Who is the criminal?!
+
+289
+00:16:56,799 --> 00:16:59,435
+I will explain that in order.
+
+290
+00:17:00,636 --> 00:17:01,971
+Sonoda-kun...
+
+291
+00:17:02,138 --> 00:17:03,839
+Sonoda-kun, this is enough.
+
+292
+00:17:03,973 --> 00:17:06,375
+It's time to stop your play.
+
+293
+00:17:09,078 --> 00:17:11,680
+Outsiders have learned this much about it.
+
+294
+00:17:11,947 --> 00:17:14,683
+It's not possible for you to hide from
+your crimes any longer.
+
+295
+00:17:14,717 --> 00:17:17,386
+Sonoda Machiko-san is completely dead.
+
+296
+00:17:17,453 --> 00:17:18,821
+Eh?!
+
+297
+00:17:19,388 --> 00:17:21,123
+That's not possible!
+
+298
+00:17:25,294 --> 00:17:26,829
+That will contact the police!
+
+299
+00:17:26,896 --> 00:17:28,164
+It'll explode!
+
+300
+00:17:28,230 --> 00:17:29,698
+Don't worry!
+
+301
+00:17:29,799 --> 00:17:33,669
+We've already opened it once before.
+
+302
+00:17:34,403 --> 00:17:38,007
+It didn't explode,
+nor did it contact the police.
+
+303
+00:17:38,107 --> 00:17:41,177
+Someone's been tampering with the system.
+
+304
+00:17:48,317 --> 00:17:50,086
+No...
+
+305
+00:17:52,688 --> 00:17:54,557
+What is this about?
+
+306
+00:17:55,191 --> 00:17:59,261
+The presumption of this bomb warning...
+
+307
+00:17:59,495 --> 00:18:03,432
+...was that it was to camouflage that
+Sonoda Machiko-san was feigning to be a corpse.
+
+308
+00:18:03,566 --> 00:18:04,834
+In other words...
+
+309
+00:18:05,000 --> 00:18:09,805
+...this poster and Machiko-san
+being murdered for embezzling...
+
+310
+00:18:09,872 --> 00:18:11,874
+...are two separate things.
+
+311
+00:18:12,141 --> 00:18:13,776
+Separate things?
+
+312
+00:18:13,909 --> 00:18:15,144
+That's right.
+
+313
+00:18:15,611 --> 00:18:18,414
+Half a year ago, Machiko-san,
+who knew all about computers...
+
+314
+00:18:18,547 --> 00:18:22,651
+...was commissioned by this bank's senior
+management to perform a top secret mission.
+
+315
+00:18:22,952 --> 00:18:24,753
+Top secret mission?!
+
+316
+00:18:24,887 --> 00:18:27,356
+In order to stop a fraud from
+within the bank...
+
+317
+00:18:27,456 --> 00:18:32,528
+...her duty was to hack into the computers of
+the entire bank staff and keep an eye on them.
+
+318
+00:18:33,195 --> 00:18:36,398
+To prove the truth about this...
+
+319
+00:18:36,398 --> 00:18:39,735
+...Machiko-san hid something
+in this safe-deposit box in advance.
+
+320
+00:18:39,768 --> 00:18:41,137
+That was...
+
+321
+00:18:43,005 --> 00:18:44,740
+...this diary.
+
+322
+00:18:45,141 --> 00:18:50,846
+This diary contains an exchange
+of e-mails between two people.
+
+323
+00:18:51,080 --> 00:18:52,648
+These are...
+
+324
+00:18:52,815 --> 00:18:56,185
+...the exchanges between
+Sakai-san and Nimura-san.
+
+325
+00:18:56,585 --> 00:19:00,689
+The ones who removed the ambassador's
+emerald from the safe-deposit box...
+
+326
+00:19:00,856 --> 00:19:02,892
+...was you two, wasn't it?
+
+327
+00:19:03,792 --> 00:19:06,862
+You two took the necklace out...
+
+328
+00:19:07,029 --> 00:19:11,200
+...and then approached Machiko-san
+with a plan to camouflage it.
+
+329
+00:19:11,400 --> 00:19:13,936
+"Please! We'll do this!"
+
+330
+00:19:14,036 --> 00:19:17,706
+"If this is exposed, it'll not only mean the end
+of the bank but an international incident as well!"
+
+331
+00:19:17,740 --> 00:19:21,343
+"Sonoda-kun. You're the only one
+we can rely on. Help us!"
+
+332
+00:19:21,443 --> 00:19:24,780
+"I still have two little children. Please!"
+
+333
+00:19:24,847 --> 00:19:27,917
+"Hey! If you can just hold him off
+until tomorrow, we'll put it all back!"
+
+334
+00:19:28,017 --> 00:19:32,087
+"Besides, once the emerald is returned,
+no one will suffer any loss or be hurt."
+
+335
+00:19:32,221 --> 00:19:33,822
+"Sonoda-kun!"
+
+336
+00:19:35,291 --> 00:19:38,093
+Machiko-san, following your request...
+
+337
+00:19:38,227 --> 00:19:44,200
+...bypassed the security system,
+changed the password and closed the shutter.
+
+338
+00:19:47,203 --> 00:19:48,938
+"I'm counting on you."
+
+339
+00:19:53,475 --> 00:19:59,148
+And, leaving this poster so the shutter wouldn't be
+opened until after the ambassador to Japan had left...
+
+340
+00:19:59,215 --> 00:20:01,884
+...you testified to having killed Machiko-san.
+
+341
+00:20:02,017 --> 00:20:05,554
+But...
+But we really didn't kill her!
+
+342
+00:20:05,721 --> 00:20:07,756
+It's true! We didn't kill her!
+
+343
+00:20:07,890 --> 00:20:10,759
+Because Machiko-chan was just faking
+she had been killed...
+
+344
+00:20:10,926 --> 00:20:14,763
+...you thought you'd be safe in saying
+you had killed her, didn't you?
+
+345
+00:20:15,464 --> 00:20:19,835
+Not wanting the ambassador
+to enter the safe-deposit box room...
+
+346
+00:20:19,969 --> 00:20:25,674
+...you'd need a credible murder case
+as well as a bomb warning to do that.
+
+347
+00:20:26,408 --> 00:20:27,776
+Nimura-san.
+
+348
+00:20:27,977 --> 00:20:32,081
+Your talk about having an affair with
+Machiko-san was all nonsense, wasn't it?
+
+349
+00:20:32,381 --> 00:20:36,719
+Rather than adultery, you were in debt
+for tens of millions of yen.
+
+350
+00:20:37,186 --> 00:20:39,688
+Did she write such things?
+
+351
+00:20:40,289 --> 00:20:45,594
+Therefore, in order to repay the debt,
+you joined forces with Sakai-san, didn't you?
+
+352
+00:20:47,363 --> 00:20:48,931
+Were you out of your mind, Sakai?!
+
+353
+00:20:48,998 --> 00:20:50,733
+I didn't know about this!
+
+354
+00:20:50,799 --> 00:20:53,636
+You two are criminal embezzlers.
+
+355
+00:20:53,769 --> 00:20:58,540
+And, the criminal who murdered
+Machiko-san was...
+
+356
+00:21:00,009 --> 00:21:03,512
+And, the criminal who murdered
+Machiko-san was...
+
+357
+00:21:05,147 --> 00:21:08,183
+...you, Hasegawa-san.
+
+358
+00:21:11,153 --> 00:21:12,721
+What are you suggesting?
+
+359
+00:21:12,888 --> 00:21:17,926
+In this diary,
+you were written up about separately.
+
+360
+00:21:18,727 --> 00:21:20,696
+As her lover...
+
+361
+00:21:20,896 --> 00:21:24,500
+...Machiko-san wrote about her feelings for you
+and her dreams of the future with you.
+
+362
+00:21:24,667 --> 00:21:28,904
+You and Machiko-chan were engaged, right?
+
+363
+00:21:29,638 --> 00:21:34,810
+You were engaged, but you were seeing
+another woman on the side as well.
+
+364
+00:21:35,277 --> 00:21:38,314
+A client company's daughter, isn't it?
+
+365
+00:21:39,148 --> 00:21:42,251
+But, Machiko-san believed in you.
+
+366
+00:21:42,284 --> 00:21:48,257
+That's why you were the only one she discussed
+Sakai-san and Nimura-san's fraud request with.
+
+367
+00:21:49,391 --> 00:21:51,126
+Here's what's written.
+
+368
+00:21:52,628 --> 00:21:54,096
+"I'm so happy."
+
+369
+00:21:54,229 --> 00:22:00,102
+"He says we'll go to the police and have
+Sakai-san and Nimura-san prosecuted."
+
+370
+00:22:01,770 --> 00:22:03,639
+Yet even so, you betrayed her.
+
+371
+00:22:03,739 --> 00:22:05,274
+What's more, in the worst way.
+
+372
+00:22:05,341 --> 00:22:06,842
+Hold on there!
+
+373
+00:22:07,409 --> 00:22:09,478
+This is just your own,
+selfish line of reasoning.
+
+374
+00:22:09,611 --> 00:22:13,749
+Thing is, when I got here,
+the shutter had already been closed!
+
+375
+00:22:14,083 --> 00:22:17,052
+How could I possibly have killed her?
+
+376
+00:22:17,219 --> 00:22:18,654
+You!
+
+377
+00:22:19,488 --> 00:22:21,657
+I'll show you how right now!
+
+378
+00:22:26,829 --> 00:22:30,966
+On Machiko-san's corpse,
+there's a small red bleed mark.
+
+379
+00:22:31,734 --> 00:22:35,037
+Machiko-san wasn't strangled...
+
+380
+00:22:35,804 --> 00:22:38,006
+She was poisoned.
+
+381
+00:22:40,542 --> 00:22:46,348
+You hid a blowgun disguised as
+a brace hidden here...
+
+382
+00:22:46,715 --> 00:22:48,984
+...in this shrub pot!
+
+383
+00:23:08,570 --> 00:23:14,143
+Most likely the dart was tipped with
+a powerful nerve poison.
+
+384
+00:23:15,043 --> 00:23:17,646
+In order to kill her this way...
+
+385
+00:23:17,746 --> 00:23:24,219
+...you'd need to know in advance Machiko-san was
+playing dead here from having taken sleeping pills.
+
+386
+00:23:24,386 --> 00:23:27,456
+Moreover, since the shutter was down...
+
+387
+00:23:27,623 --> 00:23:30,492
+...you could testify that you
+couldn't have killed her.
+
+388
+00:23:30,559 --> 00:23:35,597
+Furthermore, the only person
+who could use this secret room was...
+
+389
+00:23:36,231 --> 00:23:38,033
+In other words...
+
+390
+00:23:39,868 --> 00:23:43,739
+...that could only mean you, Hasegawa-san.
+
+391
+00:23:46,842 --> 00:23:49,445
+That's nothing but speculation.
+
+392
+00:23:51,180 --> 00:23:53,048
+It's not speculation!
+
+393
+00:23:53,248 --> 00:23:55,851
+I'm MPD Investigation Unit One's, Sato.
+
+394
+00:23:56,018 --> 00:23:57,586
+I'm Takagi of the same.
+
+395
+00:23:57,686 --> 00:23:59,822
+We had an analysis done of
+the photo of the corpse.
+
+396
+00:23:59,888 --> 00:24:03,325
+From the circumstances of the corpse,
+it's almost certain to be poison.
+
+397
+00:24:10,132 --> 00:24:15,571
+I just sent an e-mail to the address
+shown on Machiko-san's desk computer.
+
+398
+00:24:16,038 --> 00:24:21,310
+But that isn't her cell phone that's ringing;
+it's a different one.
+
+399
+00:24:22,444 --> 00:24:24,313
+What are you getting at?
+
+400
+00:24:24,813 --> 00:24:26,582
+Please listen closely.
+
+401
+00:24:26,815 --> 00:24:31,253
+You should know where
+that ringing is calling from.
+
+402
+00:24:32,287 --> 00:24:34,022
+I don't know.
+
+403
+00:24:34,389 --> 00:24:36,658
+0924...
+
+404
+00:24:37,459 --> 00:24:39,328
+Does that ring any bells?
+
+405
+00:24:44,466 --> 00:24:47,636
+Machiko-san made a gesture here
+of her faith in you...
+
+406
+00:24:47,703 --> 00:24:52,307
+...when she followed
+Sakai-san's request to play dead.
+
+407
+00:24:56,478 --> 00:25:00,015
+She believed you would return here,
+accuse those two of embezzlement...
+
+408
+00:25:00,249 --> 00:25:03,218
+...and then bring her back to normal...
+
+409
+00:25:03,418 --> 00:25:07,256
+But you used her love.
+
+410
+00:25:07,489 --> 00:25:10,392
+Taking advantage that she was playing dead...
+
+411
+00:25:10,659 --> 00:25:13,128
+...you killed her.
+
+412
+00:25:17,833 --> 00:25:23,005
+Tomorrow, September 24th,
+is your birthday, isn't it?
+
+413
+00:25:26,241 --> 00:25:28,644
+The password which opens this shutter...
+
+414
+00:25:28,844 --> 00:25:32,848
+...is also the number of your birthday, "0924."
+
+415
+00:25:37,753 --> 00:25:39,688
+Don't spout nonsense.
+
+416
+00:25:40,322 --> 00:25:44,660
+Machiko-chan was only going to play dead,
+but you didn't have to intentionally kill her!
+
+417
+00:25:45,761 --> 00:25:49,998
+To say nothing that you shouldn't use a bombing
+trick to go ahead and kill someone yourself!
+
+418
+00:25:51,366 --> 00:25:55,237
+Machiko-san, after they had been successfully
+charged with embezzling...
+
+419
+00:25:55,437 --> 00:26:00,709
+...wanted to give you this cell phone as
+a present from out of this safe-deposit box.
+
+420
+00:26:01,877 --> 00:26:05,447
+The e-mail address for
+this cell phone present...
+
+421
+00:26:06,081 --> 00:26:11,987
+...is a combination of your birthday,
+"September 24th"...
+
+422
+00:26:12,254 --> 00:26:15,591
+...and your name, "Ryosuke."
+
+423
+00:26:29,237 --> 00:26:31,807
+"As now, and forever more
+I will love you
+Machiko"
+
+424
+00:26:31,940 --> 00:26:35,744
+"As now, and forever more..."
+
+425
+00:26:36,178 --> 00:26:38,547
+"...I will love you."
+
+426
+00:26:38,847 --> 00:26:40,148
+"Machiko."
+
+427
+00:26:50,092 --> 00:26:51,893
+"Happy birthday"
+
+428
+00:27:03,105 --> 00:27:05,407
+"Happy birthday."
+
+429
+00:27:12,014 --> 00:27:13,615
+Machiko-chan...
+
+430
+00:27:14,016 --> 00:27:15,617
+Machiko-chan...
+
+431
+00:27:16,985 --> 00:27:21,223
+...believed in a worthless person like you...
+
+432
+00:27:21,456 --> 00:27:23,725
+...until the very end!
+
+433
+00:27:24,326 --> 00:27:27,229
+Why did you have to kill her,
+you scum!
+
+434
+00:27:32,734 --> 00:27:34,536
+Machiko...
+
+435
+00:27:36,038 --> 00:27:38,473
+This was far too sad...
+
+436
+00:27:39,708 --> 00:27:41,443
+Hasegawa-san...
+
+437
+00:27:51,253 --> 00:27:55,323
+"Happy birthday"
+
+438
+00:28:06,568 --> 00:28:07,669
+"Birthday"
+
+439
+00:28:10,872 --> 00:28:12,941
+"Birthday"
+
+440
+00:28:17,913 --> 00:28:19,081
+Ran!
+
+441
+00:28:24,186 --> 00:28:25,487
+Ran?
+
+442
+00:28:30,358 --> 00:28:32,394
+I see...
+
+443
+00:28:36,865 --> 00:28:38,767
+I know now.
+
+444
+00:28:39,301 --> 00:28:42,637
+Just why we are trapped in this room.
+
+445
+00:28:44,272 --> 00:28:46,575
+The criminal who did all this...
+
+446
+00:28:48,677 --> 00:28:50,045
+Ran...
+
+447
+00:28:50,245 --> 00:28:52,047
+...it was you.
+
+448
+00:28:55,217 --> 00:28:57,219
+"Ran is dead?!"
+
+449
+00:29:06,828 --> 00:29:09,230
+"Finally, Next Week
+The Shocking Final Episode!"
+
