@@ -1,0 +1,131 @@
+1775
+
+end at 15603
+
+Title Card
+1777
+1942
+
+Start audio
+cut at 1942
+cut 2 15432
+
+
+hin
+1800
+16800
+
+224kb/s AC3
+crf18
+
+
+1st cut
+1801 to 8960
+
+naoki
+1943 - 8841
+
+till cut 1 remux
+-1000 ms hastened
+-700 ms
+
+
+naoki split cut1  smoke
+7066-7165
+
+cut2
+8961-9008
+
+after cut2
+naoki
+7167-7527
+
+
+attkc
+8962-9338
+
+
+cigar2
+naoki 7528-7622
+
+
+aftercut2
+NAOKI 7623-
+
+
+attkc
+9333-9742
+
+
+NAOKI 7624 8015
+
+cigar3
+8016 8130
+
+
+attkc
+9743-10123
+
+naoki
+8131-8487
+
+Wine1 naoki
+8488 8737
+
+attkc
+10124-10232
+
+
+naoki 8738-8844
+
+
+Wine pour cut5
+8845-9261
+
+naoki
+9262-9274
+
+
+Giant last
+attkc 10233-16800
+
+naoki 9273-15594
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Color 12 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ep2 Image Gum
+16802 32475
+
+
+
+
+
